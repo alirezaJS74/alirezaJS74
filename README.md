@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="center">Hi,I Am Alireza Abedzadeh 👋</h1>
 
-<!--
-**alirezaJS74/alirezaJS74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm A Back-end developer and know a little about Front-end.    
+I am also quite passionate about learning new things.
 
-Here are some ideas to get you started:
+I love programming and problem solving and have 3 years of experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### contact me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezaJS74)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/alireza_ab95)
+[![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:abedzadehalireza19@gmail.com)
+
+## Skills
+
+### Back-End Skills:
+
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Node.js](https://img.shields.io/badge/-Node-000?&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)
+![Express](https://img.shields.io/badge/-Express-000?&logo=Express&logoColor=4479A1)
+![Nest Js](https://img.shields.io/badge/-Nest%20Js-000?&logo=NestJs&logoColor=E0234E)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker&logoColor=003F8C)
+
+### Databases:
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySQL&logoColor=4479A1)
+![PostgreSql](https://img.shields.io/badge/-PostgreSql-000?&logo=postgresql&logoColor=336791)
+
+
+### Front-End Skills:
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vuedotjs)
+![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt.js)
