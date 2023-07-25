@@ -8,9 +8,9 @@ I love programming and problem solving and have 3 years of experience
 ### contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alirezaJS74)
-[![Telegram](https://img.shields.io/badge/Channel-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/alireza_ab74) 
+[![Telegram](https://img.shields.io/badge/Telegram-25A2DF?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/alireza_ab74) 
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:abedzadehalireza19@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/alireza_ab95)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=red&color=000000)](https://www.instagram.com/alireza_ab95)
 
 ## Skills
 
